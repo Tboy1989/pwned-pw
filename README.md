@@ -52,3 +52,7 @@ pwnedPw.check('123456').then(count => {
   console.error('Your error is: ' + error.message)
 })
 ```
+
+## License
+
+[MIT](./LICENSE)
